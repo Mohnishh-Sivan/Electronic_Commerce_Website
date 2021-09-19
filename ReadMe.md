@@ -6,15 +6,6 @@
 
 Designed and Developed an E-Commerce Website called ShopEasy using HTML 5, CSS 3, React JavaScript, Commerce.Js Platform and Stripe Payment Gateway Software.
 
-<h4>KEY FEATURES :-</h4>
- ● &nbsp;<br />
- ● &nbsp;<br />
- ● &nbsp;<br />
- ● &nbsp;<br />
-
-<h4>APPLICATION URL :-</h4>
-ShopEasy™ - https://shopeasywebsite.netlify.app/
-
 <h4>LICENSE AGREEMENT :-</h4>
 Released Under Massachusetts Institute Of Technology License.<br />
 <p></p>
