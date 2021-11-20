@@ -1,4 +1,4 @@
-<h2>ShopEasy™ – E Commerce Website</h2>
+<h2>ShopEasy™ – Electronic Commerce Website D</h2>
 
 <p align="center">
 <img src="ApplicationPreview.png">
