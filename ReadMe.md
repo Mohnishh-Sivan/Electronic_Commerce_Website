@@ -4,7 +4,7 @@
 <img src="ApplicationPreview.png">
 </p>
 
-Designed and Developed an E-Commerce Website called ShopEasy using HTML 5, CSS 3, React JavaScript, Commerce.Js Platform and Stripe Software.
+Designed and Developed an Electronic Commerce Website called ShopEasy using HTML 5, CSS 3, React JavaScript, Commerce.Js Platform and Stripe Software.
 
 <h4>LICENSE AGREEMENT :-</h4>
 Released Under Massachusetts Institute Of Technology License.<br />
